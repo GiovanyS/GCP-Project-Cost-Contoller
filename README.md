@@ -45,9 +45,20 @@ The technologies used include **GCP Cloud Run Function**, **GCP Scheduler**, **G
 
 ##  Results:
 
-#Deactivation Test:
-
+# Deactivate Alert Trigger by command CLI:
 <img width="953" height="88" alt="deactivate" src="https://github.com/user-attachments/assets/6b5ac107-186f-4633-ac63-07ad94d6c960" />
+
+# Deactivation Result on GCP Cloud Run Log:
+<img width="835" height="248" alt="image" src="https://github.com/user-attachments/assets/7aeb4f91-9102-4861-894b-9dfa64260df1" />
+
+# Activate Alert Trigger by command CLI:
+<img width="1746" height="262" alt="image" src="https://github.com/user-attachments/assets/3c205c6e-d013-450c-aaed-51356ef22475" />
+
+
+# Activation Result on GCP Cloud Run Log:
+<img width="910" height="239" alt="image" src="https://github.com/user-attachments/assets/603f83b5-572b-4df4-8be2-e1d79a2f8f93" />
+
+
 
 
 
