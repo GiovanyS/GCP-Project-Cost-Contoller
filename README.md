@@ -36,7 +36,8 @@ The technologies used include **GCP Cloud Run Function**, **GCP Scheduler**, **G
 
 ##  Project Architecture
 
-<img width="762" height="761" alt="GCP Project Cost Controller" src="https://github.com/user-attachments/assets/cba41506-5367-4502-b336-35329b43506c" />
+<img width="762" height="761" alt="GCP Project Cost Controller" src="https://github.com/user-attachments/assets/2059f4b5-a376-417c-b14a-2d5c7680fc14" />
+
 
 ##  Results:
 
