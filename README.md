@@ -1,4 +1,3 @@
-<img width="1251" height="932" alt="GCP Project Cost Controller (2)" src="https://github.com/user-attachments/assets/e6ff8af0-5ec9-4156-afae-bec063d247a2" />
 # GCP Project Cost Contoller
 
 ## Objective
@@ -38,6 +37,10 @@ The technologies used include **GCP Cloud Run Function**, **GCP Scheduler**, **G
 ##  Project Architecture
 
 <img width="1251" height="932" alt="GCP Project Cost Controller (2)" src="https://github.com/user-attachments/assets/c8230c73-22f4-4fae-aec3-ae021f7f221b" />
+
+## Cloud Run Python Code
+
+<img width="708" height="911" alt="CloudRunPythonCode" src="https://github.com/user-attachments/assets/a695fbb7-81be-4e75-9a53-e3689b3cdd0d" />
 
 
 ##  Results:
