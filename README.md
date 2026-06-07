@@ -47,7 +47,8 @@ The technologies used include **GCP Cloud Run Function**, **GCP Scheduler**, **G
 
 #Deactivation Test:
 
-<img width="567" height="55" alt="deactivate" src="https://github.com/user-attachments/assets/4e5d132c-b3e6-400e-bc43-acfc183c8e05" />
+<img width="953" height="88" alt="deactivate" src="https://github.com/user-attachments/assets/6b5ac107-186f-4633-ac63-07ad94d6c960" />
+
 
 
 
