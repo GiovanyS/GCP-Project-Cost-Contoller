@@ -1,4 +1,4 @@
-# GCP Project Cost Contoller
+# GCP Project Cost Controller
 
 ## Objective
 GCP Project Cost Controller is a solution for managing and controlling costs in Google Cloud Platform projects. Built with native GCP services, it automates monthly cost monitoring and helps prevent unexpected cloud expenses.
